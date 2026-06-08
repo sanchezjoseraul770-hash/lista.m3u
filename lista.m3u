@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Música", Radio Master (Perú)
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Música", Turbo Mix Radio TV (Perú) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Música", TVUNO (Perú)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Música", Salsa Gorda Television (Perú) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", Retro Plus TV (Inglés) (Chile)
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV (Español) (Chile)
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Música",VClassic TV (Chile)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Música",PortalFoxMix (Chile)
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Música", AE Radio TV (Chile)
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://populartv.cl/wp-content/uploads/2026/05/lapopu.png" group-title="Música",La Popular TV (Chile)
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
+
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-CLASSIC-OK-png-.png" group-title="Música",Memorias Classic (Chile)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
