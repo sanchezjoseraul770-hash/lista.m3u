@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD
+http://190.61.101.11:7050/play/a051/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD(Opc.2)
+http://190.217.66.92:8000/play/a0pk/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg" group-title="Cine / Películas",HBO Xtreme HD
+http://190.61.101.11:7050/play/a052/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg" group-title="Cine / Películas",HBO Xtreme HD (Opc.2)
+http://190.217.66.92:8000/play/a0pl/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD
+http://190.61.101.11:7050/play/a08p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD
+http://190.61.101.11:7050/play/a05d/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://24.152.53.3:8090/play/a012/index.m3u8?
 
@@ -383,18 +401,6 @@ http://190.217.66.92:8000/play/a0pz/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas",HBO2 HD
 http://190.61.101.11:7050/play/a04z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD
-http://190.61.101.11:7050/play/a051/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD(Opc.2)
-http://190.217.66.92:8000/play/a0pk/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg" group-title="Cine / Películas",HBO Xtreme HD
-http://190.61.101.11:7050/play/a052/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg" group-title="Cine / Películas",HBO Xtreme HD (Opc.2)
-http://190.217.66.92:8000/play/a0pl/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas",Warner Channel HD
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
