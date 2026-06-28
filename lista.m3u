@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
 
+#EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
+https://hls1.mywebtv.cloud/hls/telemundo/index.m3u8?token=Z6zKdn3hbXdvroZ5Swhtmw&expires=1782671662
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD(Opc.2)
 http://190.217.66.92:8000/play/a0pk/index.m3u8u?hls
 
