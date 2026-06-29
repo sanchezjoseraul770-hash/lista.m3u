@@ -364,6 +364,316 @@ https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Doramas / Asia",Series K-Comedia Romántica
 https://jmp2.uk/stvp-ES200041FT
 
+#EXTINF:-1 tvg-name="AME 47" group-title="TV",AME 47
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+
+#EXTINF:-1 tvg-name="America Estereo Guayaquil" group-title="TV",America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="America Estereo Ibarra" group-title="TV",America Estereo Ibarra
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+
+#EXTINF:-1 tvg-name="America Estereo Quito" group-title="TV",America Estereo Quito
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+
+#EXTINF:-1 tvg-name="America Estereo Tulcan" group-title="TV",America Estereo Tulcan
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="America 83" group-title="TV",America 83
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+
+#EXTINF:-1 tvg-name="America TV Peru" group-title="TV",America TV Peru
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+
+#EXTINF:-1 tvg-name="America TeVe 2" group-title="TV",America TeVe 2
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-name="America TV" group-title="TV",America TV
+http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ant Media" group-title="TV",Ant Media
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+
+#EXTINF:-1 tvg-name="Mexiquense 2" group-title="TV",Mexiquense 2
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JMP2 UK 2" group-title="TV",JMP2 UK 2
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+
+#EXTINF:-1 tvg-name="ANC TV" group-title="TV",ANC TV
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+
+#EXTINF:-1 tvg-name="Andes TV" group-title="TV",Andes TV
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Andina TV" group-title="TV",Andina TV
+https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JMP2 UK 3" group-title="TV",JMP2 UK 3
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+
+#EXTINF:-1 tvg-name="Angel Spanish" group-title="TV",Angel Spanish
+https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision" group-title="TV",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision Classics" group-title="TV",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-name="Anime Zone TV" group-title="TV",Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Antares TV" group-title="TV",Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena Uno" group-title="TV",Antena Uno
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3" group-title="TV",Antena 3
+https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
+
+#EXTINF:-1 tvg-name="Canal A06A" group-title="TV",Canal A06A
+http://177.10.184.193:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-name="CloudFront TV" group-title="TV",CloudFront TV
+https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena 7" group-title="TV",Antena 7
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena Seis TV" group-title="TV",Antena Seis TV
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 8010" group-title="TV",Canal 8010
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena Uno Live" group-title="TV",Antena Uno Live
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-name="ATV Chile" group-title="TV",ATV Chile
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Anzoategui TV" group-title="TV",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="cloud2.streaminglivehd.com" group-title="TV",cloud2.streaminglivehd.com
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+
+#EXTINF:-1 tvg-name="canal.aupurtv.co" group-title="TV",canal.aupurtv.co
+https://canal.aupurtv.co/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-name="cdn.streamhispanatv.net" group-title="TV",cdn.streamhispanatv.net
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-name="stmv3.voxtvhd.com.br" group-title="TV",stmv3.voxtvhd.com.br
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="live.obslivestream.com" group-title="TV",live.obslivestream.com
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-name="video.misistemareseller.com" group-title="TV",video.misistemareseller.com
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-name="s1.abntelevision.com" group-title="TV",s1.abntelevision.com
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="mgv-awapa.akamaized.net" group-title="TV",mgv-awapa.akamaized.net
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+
+#EXTINF:-1 tvg-name="AXN" group-title="TV",AXN
+http://cdn.haititivi.com/AXN/index.m3u8
+
+#EXTINF:-1 tvg-name="45.167.1.138" group-title="TV",45.167.1.138
+http://45.167.1.138:8000/play/a04s
+
+#EXTINF:-1 tvg-name="AXN HD" group-title="TV",AXN HD
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="45.228.235.116" group-title="TV",45.228.235.116
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+
+#EXTINF:-1 tvg-name="xplatinmedia.com" group-title="TV",xplatinmedia.com
+http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/114738
+
+#EXTINF:-1 tvg-name="Ayni TV" group-title="TV",Ayni TV
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aysen TV" group-title="TV",Aysen TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+#EXTINF:-1 tvg-name="Azahares FM" group-title="TV",Azahares FM
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="mdstrm-65a1d2fd7e7f14355550d570" group-title="TV",mdstrm-65a1d2fd7e7f14355550d570
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+#EXTINF:-1 tvg-name="AZT Mun" group-title="TV",AZT Mun
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-name="LSAC" group-title="TV",LSAC
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Envio2" group-title="TV",Envio2
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="jmp2-5ebac49ce4dc8b00078b23bc" group-title="TV",jmp2-5ebac49ce4dc8b00078b23bc
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-name="SP88" group-title="TV",SP88
+https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
+
+#EXTINF:-1 tvg-name="Vacan TV" group-title="TV",Vacan TV
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 24H" group-title="TV",Canal 24H
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bajo Techo TV" group-title="TV",Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="8092" group-title="TV",8092
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 tvg-name="BaniVision" group-title="TV",BaniVision
+https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+
+#EXTINF:-1 tvg-name="Barca TV" group-title="TV",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-name="Barinas TV" group-title="TV",Barinas TV
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bayres TV" group-title="TV",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV" group-title="TV",Rakuten TV
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BCN Gospel TV" group-title="TV",BCN Gospel TV
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Tele GTMB" group-title="TV",Tele GTMB
+https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BeMad" group-title="TV",BeMad
+https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8
+
+#EXTINF:-1 tvg-name="Beats Radio" group-title="TV",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-name="Bebeto Television" group-title="TV",Bebeto Television
+https://mlb.essastream.com:8081/bebetotelevision/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Xtra Español" group-title="TV",beIN Sports Xtra Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-name="Bella Abanquina" group-title="TV",Bella Abanquina
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bella Vision 8 HD" group-title="TV",Bella Vision 8 HD
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Bendicion Channel" group-title="TV",Bendicion Channel
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+
+#EXTINF:-1 tvg-name="acceso.mediosdecostarica.com" group-title="TV",acceso.mediosdecostarica.com
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Bethel TV" group-title="TV",Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BH TV" group-title="TV",BH TV
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Biosfera TV" group-title="TV",Biosfera TV
+https://tvdatta.com:3021/live/biosferatvlive.m3u8
+
+#EXTINF:-1 tvg-name="mdstrm-58d1921a72e2b22e2905e493" group-title="TV",mdstrm-58d1921a72e2b22e2905e493
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
+#EXTINF:-1 tvg-name="Apocalipsis TV" group-title="TV",Apocalipsis TV
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8
+
+#EXTINF:-1 tvg-name="Arabi TV" group-title="TV",Arabi TV
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+
+#EXTINF:-1 tvg-name="Aragon TV" group-title="TV",Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-name="Arbol TV" group-title="TV",Arbol TV
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+
+#EXTINF:-1 tvg-name="JMP2 UK 4" group-title="TV",JMP2 UK 4
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
+#EXTINF:-1 tvg-name="Argentinisima" group-title="TV",Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-name="Canal 8002" group-title="TV",Canal 8002
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arpegio TV" group-title="TV",Arpegio TV
+https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 49" group-title="TV",Canal 49
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AS3 Sport" group-title="TV",AS3 Sport
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Ours Network TV" group-title="TV",Ours Network TV
+https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Asiri TV" group-title="TV",Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-name="Asoma TV" group-title="TV",Asoma TV
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-name="Atabal TV" group-title="TV",Atabal TV
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Atacama Noticias" group-title="TV",Atacama Noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-name="Atacama TV" group-title="TV",Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Daniel TV" group-title="TV",Daniel TV
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-name="ATC HD" group-title="TV",ATC HD
+https://ola1.com.ar/atccohd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta GA Live" group-title="TV",Atlanta GA Live
+https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+
+#EXTINF:-1 tvg-name="Atlantis TV" group-title="TV",Atlantis TV
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATN Television" group-title="TV",ATN Television
+https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal KgkA9tT2" group-title="TV",Canal KgkA9tT2
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+
+#EXTINF:-1 tvg-name="A3 Series" group-title="TV",A3 Series
+https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
+
+#EXTINF:-1 tvg-name="ATV Peru" group-title="TV",ATV Peru
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATV Argentina" group-title="TV",ATV Argentina
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV Sur" group-title="TV",ATV Sur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV" group-title="TV",ATV
+http://179.60.51.134:8888/ATV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Doramas / Asia",KPOP TV Play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
