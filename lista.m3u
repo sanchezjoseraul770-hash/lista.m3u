@@ -91,7 +91,95 @@ https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
 
-#EXTM3U
+#EXTINF:-1 tvg-name="Activa TV" group-title="TV",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC RTZXNXD" group-title="TV",MBC RTZXNXD
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+
+#EXTINF:-1 tvg-name="Love News" group-title="TV",Love News
+https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MDStrm 1" group-title="TV",MDStrm 1
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-name="Adoram TV" group-title="TV",Adoram TV
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+
+#EXTINF:-1 tvg-name="JMP2 UK 1" group-title="TV",JMP2 UK 1
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+
+#EXTINF:-1 tvg-name="AE Radio" group-title="TV",AE Radio
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Frequency 46" group-title="TV",Frequency 46
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Agape TV" group-title="TV",Agape TV
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bolivia Play" group-title="TV",Bolivia Play
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Agro TV" group-title="TV",Agro TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Agro SRT" group-title="TV",Agro SRT
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Agro Tendencia" group-title="TV",Agro Tendencia
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Interven Hosting" group-title="TV",Interven Hosting
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Aguila TV" group-title="TV",Aguila TV
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ahora TV" group-title="TV",Ahora TV
+https://stream.haislin.com/ahoratv/index.m3u8
+
+#EXTINF:-1 tvg-name="Aion Television" group-title="TV",Aion Television
+https://edge.essastream.com/aiontelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aire de Santa Fe TV" group-title="TV",Aire de Santa Fe TV
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Aoula TNT" group-title="TV",Al Aoula TNT
+https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Aoula" group-title="TV",Al Aoula
+https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
+
+#EXTINF:-1 tvg-name="Al Aoula HD" group-title="TV",Al Aoula HD
+https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Artequatre Alacanti" group-title="TV",Artequatre Alacanti
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
+#EXTINF:-1 tvg-name="Albricias TV" group-title="TV",Albricias TV
+https://live-evg10.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alcance FM TV" group-title="TV",Alcance FM TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+
+#EXTINF:-1 tvg-name="Alcance TV" group-title="TV",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GlobalHost Live" group-title="TV",GlobalHost Live
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+
+#EXTINF:-1 tvg-name="Alcarria TV" group-title="TV",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-name="Alcarrizos TV" group-title="TV",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alegre TV" group-title="TV",Alegre TV
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-name="Confirma TV" group-title="TV",Confirma TV
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="3ABN Latino" group-title="TV",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
