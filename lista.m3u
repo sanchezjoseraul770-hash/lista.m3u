@@ -91,8 +91,157 @@ https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
 
+#EXTM3U
 
+#EXTINF:-1 tvg-name="3ABN Latino" group-title="TV",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="4D Más Noticias" group-title="TV",4D Más Noticias
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Cinco" group-title="TV",TV Cinco
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="8150 TV" group-title="TV",8150 TV
+https://live.enhdtv.com:8081/8150/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 028" group-title="TV",Canal 028
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 24" group-title="TV",Canal 24
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+
+#EXTINF:-1 tvg-name="NTV" group-title="TV",NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="9 La Loma TV" group-title="TV",9 La Loma TV
+https://9laloma.tv/live.m3u8
+
+#EXTINF:-1 tvg-name="12 TV" group-title="TV",12 TV
+https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 1" group-title="TV",DPS TV 1
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 2" group-title="TV",DPS TV 2
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 3" group-title="TV",DPS TV 3
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 4" group-title="TV",DPS TV 4
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 5" group-title="TV",DPS TV 5
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 6" group-title="TV",DPS TV 6
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 7" group-title="TV",DPS TV 7
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-name="Canal a11i" group-title="TV",Canal a11i
+http://45.4.1.201:8000/play/a11i/index.m3u8
+
+#EXTINF:-1 tvg-name="DPS TV 8" group-title="TV",DPS TV 8
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-name="Leonel TV" group-title="TV",Leonel TV
+https://cdn.fastocloud.com/leonel.m3u8
+
+#EXTINF:-1 tvg-name="Enlace BPB TV" group-title="TV",Enlace BPB TV
+https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
+
+#EXTINF:-1 tvg-name="CN247 TV" group-title="TV",CN247 TV
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-name="El Deber TV" group-title="TV",El Deber TV
+https://master.tucableip.com/eldebertv/index.m3u8
+
+#EXTINF:-1 tvg-name="36 TV" group-title="TV",36 TV
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="88 Stereo" group-title="TV",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Axarquia TV" group-title="TV",Axarquia TV
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+
+#EXTINF:-1 tvg-name="Cadiz TV" group-title="TV",Cadiz TV
+https://streaming101tv.es:19360/cadiz/cadiz.m3u8
+
+#EXTINF:-1 tvg-name="101 Malaga" group-title="TV",101 Malaga
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="101 Sevilla" group-title="TV",101 Sevilla
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="360 RF TV" group-title="TV",360 RF TV
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+#EXTINF:-1 tvg-name="Gente OPA TV" group-title="TV",Gente OPA TV
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A24" group-title="TV",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-name="Canal 6" group-title="TV",Canal 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
+
+#EXTINF:-1 tvg-name="Brightcove Live" group-title="TV",Brightcove Live
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+
+#EXTINF:-1 tvg-name="A&E" group-title="TV",A&E
+http://138.121.15.230:9002/A&E/index.m3u8
+
+#EXTINF:-1 tvg-name="Stream Play" group-title="TV",Stream Play
+http://51.222.9.192:3589/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="MDStream 1" group-title="TV",MDStream 1
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-name="YNFPNCXXJG" group-title="TV",YNFPNCXXJG
+https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC TV" group-title="TV",ABC TV
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 7" group-title="TV",Canal 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
+#EXTINF:-1 tvg-name="ABC Television" group-title="TV",ABC Television
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABTV Bariloche" group-title="TV",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+
+#EXTINF:-1 tvg-name="SEO TV" group-title="TV",SEO TV
+https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO 1" group-title="TV",PLUTO 1
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
+#EXTINF:-1 tvg-name="AMP CH1" group-title="TV",AMP CH1
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-name="AMP CH2" group-title="TV",AMP CH2
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-name="AMP CH4" group-title="TV",AMP CH4
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
+
+#EXTINF:-1 tvg-name="AMP CH3" group-title="TV",AMP CH3
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-name="AMP CH5" group-title="TV",AMP CH5
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
+
+#EXTINF:-1 tvg-name="Acento TV" group-title="TV",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="ACS Network" group-title="TV",ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028190AhN4NcSu8L-300x300-square.png" group-title="FreeTV",Mi Raza Canal
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
