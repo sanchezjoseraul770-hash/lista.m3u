@@ -4,6 +4,9 @@ http://138.36.253.106:8066/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Cine / Películas",FMH Movies
 http://138.36.253.106:8066/play/a019/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+
 #EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
 https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=jTSf4tcOOsPRV3nvFD5slg&expires=1782796660
 
