@@ -5,7 +5,7 @@ http://190.61.101.11:7050/play/a051/index.m3u8?hls
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
-https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=4cJts35wfZmmUncspF1Eew&expires=1782796165
+https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=jTSf4tcOOsPRV3nvFD5slg&expires=1782796660
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas",HBO Family HD(Opc.2)
 http://190.217.66.92:8000/play/a0pk/index.m3u8u?hls
