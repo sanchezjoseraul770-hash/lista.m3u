@@ -1631,6 +1631,97 @@ https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CH001" tvg-name="Canal 001" group-title="Pluto TV",Canal 001
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+
+#EXTINF:-1 tvg-id="CH002" tvg-name="Canal 002" group-title="Pluto TV",Canal 002
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+
+#EXTINF:-1 tvg-id="CH003" tvg-name="Canal 003" group-title="Pluto TV",Canal 003
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+
+#EXTINF:-1 tvg-id="CH004" tvg-name="Canal 004" group-title="Pluto TV",Canal 004
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+
+#EXTINF:-1 tvg-id="CH005" tvg-name="Canal 005" group-title="Pluto TV",Canal 005
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 tvg-id="CH006" tvg-name="Canal 006" group-title="Pluto TV",Canal 006
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+
+#EXTINF:-1 tvg-id="CH007" tvg-name="Canal 007" group-title="Pluto TV",Canal 007
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+
+#EXTINF:-1 tvg-id="CH008" tvg-name="Canal 008" group-title="Pluto TV",Canal 008
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+
+#EXTINF:-1 tvg-id="CH009" tvg-name="Canal 009" group-title="Pluto TV",Canal 009
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+
+#EXTINF:-1 tvg-id="CH010" tvg-name="Canal 010" group-title="Pluto TV",Canal 010
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+
+#EXTINF:-1 tvg-id="CH011" tvg-name="Canal 011" group-title="Pluto TV",Canal 011
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+
+#EXTINF:-1 tvg-id="CH012" tvg-name="Canal 012" group-title="Pluto TV",Canal 012
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+
+#EXTINF:-1 tvg-id="CH013" tvg-name="Canal 013" group-title="Pluto TV",Canal 013
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+
+#EXTINF:-1 tvg-id="CH014" tvg-name="Canal 014" group-title="Pluto TV",Canal 014
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+
+#EXTINF:-1 tvg-id="CH015" tvg-name="Canal 015" group-title="Pluto TV",Canal 015
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+
+#EXTINF:-1 tvg-id="CH016" tvg-name="Canal 016" group-title="Pluto TV",Canal 016
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+
+#EXTINF:-1 tvg-id="CH017" tvg-name="Canal 017" group-title="Pluto TV",Canal 017
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+
+#EXTINF:-1 tvg-id="CH018" tvg-name="Canal 018" group-title="Pluto TV",Canal 018
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
+#EXTINF:-1 tvg-id="CH019" tvg-name="Canal 019" group-title="Pluto TV",Canal 019
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+
+#EXTINF:-1 tvg-id="CH020" tvg-name="Canal 020" group-title="Pluto TV",Canal 020
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+
+#EXTINF:-1 tvg-id="CH021" tvg-name="Canal 021" group-title="Pluto TV",Canal 021
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+
+#EXTINF:-1 tvg-id="CH022" tvg-name="Canal 022" group-title="Pluto TV",Canal 022
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+
+#EXTINF:-1 tvg-id="CH023" tvg-name="Canal 023" group-title="Pluto TV",Canal 023
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+
+#EXTINF:-1 tvg-id="CH024" tvg-name="Canal 024" group-title="Pluto TV",Canal 024
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+
+#EXTINF:-1 tvg-id="CH025" tvg-name="Canal 025" group-title="Pluto TV",Canal 025
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+
+#EXTINF:-1 tvg-id="CH026" tvg-name="Canal 026" group-title="Pluto TV",Canal 026
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="CH027" tvg-name="Canal 027" group-title="Pluto TV",Canal 027
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+
+#EXTINF:-1 tvg-id="CH028" tvg-name="Canal 028" group-title="Pluto TV",Canal 028
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+
+#EXTINF:-1 tvg-id="CH029" tvg-name="Canal 029" group-title="Pluto TV",Canal 029
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+
+#EXTINF:-1 tvg-id="CH030" tvg-name="Canal 030" group-title="Pluto TV",Canal 030
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png" group-title="Cine / Películas",RETROX PLUS
 https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
 
