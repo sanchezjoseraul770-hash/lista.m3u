@@ -4,7 +4,7 @@
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
-https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=xLWGn-qyl8qwWJct9mC9XA&expires=1782948346
+https://hls1.mywebtv.cloud/hls/telemundo/index.m3u8?token=gX4upF18-THMvM7ews_LDQ&expires=1782964550
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas",Studio Universal(Opc.3)
