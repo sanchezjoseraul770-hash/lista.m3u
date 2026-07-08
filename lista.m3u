@@ -61,8 +61,6 @@ http://190.61.101.11:7050/play/a078/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas",Cinemax
-http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
 
 
@@ -73,17 +71,6 @@ http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Cine / Películas",AXN
-http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas",De Película
-http://24.152.53.3:8090/play/a01f/index.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas",CINE MEXICANO
-http://190.61.101.11:7050/play/a08x/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas",TCM
-http://190.217.66.92:8000/play/a0om/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine / Películas",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
