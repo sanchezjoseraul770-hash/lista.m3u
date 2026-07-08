@@ -1,4 +1,5 @@
-
+#EXTINF:-1 tvg-logo="" group-title="Novelas",TLNovelas
+https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/77981dd5-4fc4-48bf-8c67-5becfae30050/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
