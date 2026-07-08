@@ -14,15 +14,13 @@ https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=Z37-0Y1iQn0ay8amhmi9QQ&expires=1783303077
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas",Studio Universal(Opc.3)
-http://190.217.66.92:8000/play/a0gc/index.m3u8u?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas",Universal TV HD
 http://190.61.101.11:7050/play/a068/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas",Universal TV HD[Opc.3]
-http://190.217.66.92:8000/play/a0oh/index.m3u8u?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas",Universal Premiere HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
@@ -30,8 +28,7 @@ http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas",TNT
 http://190.217.66.92:8000/play/a0oo/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas",HBO
-http://138.36.253.106:8066/play/a017/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas",HBO(Opc.2)
 http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls
@@ -61,11 +58,7 @@ http://190.217.66.92:8000/play/a0pl/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas",Warner Channel HD
 http://190.61.101.11:7050/play/a078/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas",Warner Channel HD (Opc.2)
-http://138.36.253.106:8066/play/a018/index.m3u8?hls
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas",Warner Channel HD (Opc.3)
-http://190.217.66.92:8000/play/a0de/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas",Cinecanal
 http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
@@ -73,17 +66,7 @@ http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas",Cinemax
 http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas",Golden HD
-http://138.36.253.106:8066/play/a01x/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cine / Películas",Golden Plus HD
-http://138.36.253.106:8066/play/a01y/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas",Golden Edge HD
-http://138.36.253.106:8066/play/a01z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas",Golden Premier HD
-http://138.36.253.106:8066/play/a020/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LG8wgt1/MX-Classic.png" group-title="Cine / Películas",MX Classic
 http://138.36.253.106:8066/play/a01g/index.m3u8?hls
