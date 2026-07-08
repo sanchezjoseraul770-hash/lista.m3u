@@ -4,6 +4,12 @@ https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony Channels",Sony One Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
+https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
 #EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
 https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=Z37-0Y1iQn0ay8amhmi9QQ&expires=1783303077
 
@@ -701,8 +707,7 @@ http://24.152.53.3:8090/play/a018/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png" group-title="Entretenimiento", Todo Pasión
-https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento",Novelísima
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
@@ -2156,8 +2161,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest?cb=20240808205124" group-title="Sony Channels",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Sony Channels",Sony One Novelas
-https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdLSCtD9/sony-one-exitos-es.png" group-title="Sony Channels",Sony One Exitos
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
