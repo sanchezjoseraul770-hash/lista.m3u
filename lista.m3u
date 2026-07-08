@@ -60,40 +60,18 @@ http://190.61.101.11:7050/play/a078/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas",Cinecanal
-http://190.217.66.92:8000/play/a0og/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine / Películas",Cinemax
 http://190.217.66.92:8000/play/a0fb/index.m3u8u?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LG8wgt1/MX-Classic.png" group-title="Cine / Películas",MX Classic
-http://138.36.253.106:8066/play/a01g/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p9y4wqz/MX-Prime.png" group-title="Cine / Películas",MX Prime
-http://138.36.253.106:8066/play/a01i/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGNR2Gw3/MX-OLD.png" group-title="Cine / Películas",MX OLD
-http://138.36.253.106:8066/play/a01j/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZbbyY8J/MX-Family.png" group-title="Cine / Películas",MX Family
-http://138.36.253.106:8066/play/a01k/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas",Multipremier
-http://138.36.253.106:8066/play/a029/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas",Space
-http://138.36.253.106:8066/play/a01b/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas",Space (Opc.2)
-http://190.217.66.92:8000/play/a0fe/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Cine / Películas",Star Channel
-http://138.36.253.106:8066/play/a021/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Cine / Películas",FX
-http://190.217.66.92:8000/play/a0ff/index.m3u8u?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Cine / Películas",AXN
 http://190.217.66.92:8000/play/a0fd/index.m3u8u?hls
