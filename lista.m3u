@@ -1,3 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Publicidad",Mi Anuncio
+https://res.cloudinary.com/gzqyshon/video/upload/v1783671957/Dise%C3%B1o_sin_t%C3%ADtulo_20260710_014255_0000_j20dq3.mp4
+
+
 #EXTINF:-1 tvg-logo="" group-title="Novelas",TLNovelas
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/77981dd5-4fc4-48bf-8c67-5becfae30050/0.m3u8
 
