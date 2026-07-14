@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Publicidad",PUBLICIDAD TVLEGAL PREMIUM
-https://res.cloudinary.com/gzqyshon/video/upload/v1783671957/Dise%C3%B1o_sin_t%C3%ADtulo_20260710_014255_0000_j20dq3.mp4
-
-
 #EXTINF:-1 tvg-logo="" group-title="Novelas",TLNovelas
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/77981dd5-4fc4-48bf-8c67-5becfae30050/0.m3u8
 
@@ -16,6 +12,262 @@ https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-name="Telemundo" group-title="TV",Telemundo
 https://hls4.mywebtv.cloud/hls/telemundo/index.m3u8?token=Z37-0Y1iQn0ay8amhmi9QQ&expires=1783303077
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal HD (Opc.1)
+http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.2)
+http://190.61.34.164:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.3)
+http://190.61.34.164:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas Premium",Universal TV HD[Opc.1]
+http://186.33.26.18:8000/play/a0o3/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.2]
+http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.3]
+http://190.61.34.164:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
+http://190.61.101.11:7050/play/a06o/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.2]
+http://186.33.0.57:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
+http://186.33.0.57:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.2]
+http://45.228.234.62:8000/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
+http://186.33.0.57:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
+http://181.78.50.91:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine / Películas Premium",Cine Latino
+http://190.61.101.11:7050/play/a06a/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
+http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.2)
+http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
+http://190.61.34.164:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD
+http://181.224.255.210:8001/play/a0f161/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
+http://181.119.84.106:8000/play/a0pb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
+http://186.148.196.100:8000/play/a002
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.1)
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.2)
+http://186.33.0.57:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.3)
+http://181.78.50.91:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine / Películas Premium",HBO POP HD
+http://181.78.67.171:8000/play/a111/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.2)
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.3)
+http://179.60.191.102:8000/play/a0i8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
+http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
+http://190.61.34.164:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
+http://190.61.34.164:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.2)
+http://157.100.9.51:8000/play/a1tc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.3)
+http://186.148.184.22:8000/play/a0lx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
+http://190.61.34.164:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD (Opc.2)
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO XTREME HD (Opc.3)
+http://157.100.9.51:8000/play/a1td
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.1)
+http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
+http://38.224.231.47:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
+http://181.119.84.106:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD
+http://181.224.255.210:8001/play/a0re/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.2]
+http://181.119.84.106:8000/play/a0sk/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.3]
+http://181.78.67.171:8000/play/a0zx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas Premium",Warner Channel HD (Opc.1)
+http://181.79.86.130:8000/play/a041/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.2)
+http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.3)
+http://190.61.34.164:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas Premium",Cinecanal HD
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.2)
+http://186.148.196.100:8000/play/a02o
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.3)
+http://190.61.34.164:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.1)
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.2)
+http://38.224.231.47:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.3)
+http://190.61.34.164:8000/play/a021/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.1)
+http://181.225.190.242:8000/play/a00w
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.2)
+http://181.78.8.199:8000/play/a09p/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
+http://190.60.39.195:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
+http://181.225.190.242:8000/play/a00y
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
+http://181.78.50.91:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.3)
+http://45.167.1.138:8000/play/a06s
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.1)
+http://181.225.190.242:8000/play/a00x
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.2)
+http://190.60.39.195:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.3)
+http://181.78.8.199:8000/play/a09n/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.1)
+http://45.167.2.138:8000/play/a0rp/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.2)
+http://45.5.118.188:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.3)
+http://45.5.117.188:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden HD (Opc.2)
+http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden HD (Opc.3)
+http://190.61.34.164:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE SD
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD (Opc.2)
+http://190.61.34.164:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD (Opc.3)
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere
+http://45.186.106.207:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.2]
+http://45.5.118.188:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
+http://45.5.117.188:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
+http://45.5.117.187:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.2]
+http://181.78.192.238:8000/play/a2dy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.3]
+http://45.186.106.207:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier HD
+http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.2]
+http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
+http://201.77.60.62:8002/play/a0cp/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space SD (Opc.1)
+http://186.33.0.57:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.2)
+http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
+http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.1)
+http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD (Opc.2)
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.3)
+http://205.235.6.29:8000/play/a108/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD (Opc.1)
+http://45.186.106.207:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.2)
+http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.3)
+http://190.61.34.164:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal HD 
 http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
@@ -2192,260 +2444,6 @@ https://edge.essastream.com/xtratv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal HD (Opc.1)
-http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.2)
-http://190.61.34.164:8000/play/a02d/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.3)
-http://190.61.34.164:8000/play/a02d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine / Películas Premium",Universal TV HD[Opc.1]
-http://186.33.26.18:8000/play/a0o3/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.2]
-http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal TV HD[Opc.3]
-http://190.61.34.164:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
-http://190.61.101.11:7050/play/a06o/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD [Opc.2]
-http://186.33.0.57:8000/play/a04h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD
-http://186.33.0.57:8000/play/a05x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine / Películas Premium",Universal Cinema HD [Opc.2]
-http://45.228.234.62:8000/play/a07c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD
-http://186.33.0.57:8000/play/a04k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
-http://181.78.50.91:8000/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine / Películas Premium",Cine Latino
-http://190.61.101.11:7050/play/a06a/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
-http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.2)
-http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
-http://190.61.34.164:8000/play/a023/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD
-http://181.224.255.210:8001/play/a0f161/index.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.2]
-http://181.119.84.106:8000/play/a0pb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
-http://186.148.196.100:8000/play/a002
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.1)
-http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.2)
-http://186.33.0.57:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus SD(Opc.3)
-http://181.78.50.91:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine / Películas Premium",HBO POP HD
-http://181.78.67.171:8000/play/a111/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.2)
-http://181.224.255.210:8001/play/a0on/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD (Opc.3)
-http://179.60.191.102:8000/play/a0i8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
-http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
-http://190.61.34.164:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
-http://190.61.34.164:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
-http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.2)
-http://157.100.9.51:8000/play/a1tc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD(Opc.3)
-http://186.148.184.22:8000/play/a0lx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD
-http://190.61.34.164:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine / Películas Premium",HBO Xtreme HD (Opc.2)
-http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO XTREME HD (Opc.3)
-http://157.100.9.51:8000/play/a1td
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.1)
-http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
-http://38.224.231.47:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD (Opc.2)
-http://181.119.84.106:8000/play/a00k/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD
-http://181.224.255.210:8001/play/a0re/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.2]
-http://181.119.84.106:8000/play/a0sk/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature SD [Opc.3]
-http://181.78.67.171:8000/play/a0zx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" group-title="Cine / Películas Premium",Warner Channel HD (Opc.1)
-http://181.79.86.130:8000/play/a041/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.2)
-http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.3)
-http://190.61.34.164:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Cine / Películas Premium",Cinecanal HD
-http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.2)
-http://186.148.196.100:8000/play/a02o
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal HD (Opc.3)
-http://190.61.34.164:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.1)
-http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.2)
-http://38.224.231.47:8000/play/a027/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD (Opc.3)
-http://190.61.34.164:8000/play/a021/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.1)
-http://181.225.190.242:8000/play/a00w
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.2)
-http://181.78.8.199:8000/play/a09p/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
-http://190.60.39.195:8000/play/a00k/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
-http://181.225.190.242:8000/play/a00y
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
-http://181.78.50.91:8000/play/a05r/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.3)
-http://45.167.1.138:8000/play/a06s
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.1)
-http://181.225.190.242:8000/play/a00x
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.2)
-http://190.60.39.195:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tfgyfrw.png",Cine Hispano HD (Opc.3)
-http://181.78.8.199:8000/play/a09n/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.1)
-http://45.167.2.138:8000/play/a0rp/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.2)
-http://45.5.118.188:8000/play/a05k/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.3)
-http://45.5.117.188:8000/play/a059/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
-http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden HD (Opc.2)
-http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden HD (Opc.3)
-http://190.61.34.164:8000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE SD
-http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD (Opc.2)
-http://190.61.34.164:8000/play/a022/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE HD (Opc.3)
-http://181.78.8.199:8000/play/a0ab/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere
-http://45.186.106.207:8000/play/a06v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.2]
-http://45.5.118.188:8000/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere [Opc.3]
-http://45.5.117.188:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.1]
-http://45.5.117.187:8000/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.2]
-http://181.78.192.238:8000/play/a2dy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 [Opc.3]
-http://45.186.106.207:8000/play/a06w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.2]
-http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD [Opc.3]
-http://201.77.60.62:8002/play/a0cp/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Cine / Películas Premium",Space SD (Opc.1)
-http://186.33.0.57:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.2)
-http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
-http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.1)
-http://205.235.6.29:8000/play/a0x7/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel HD (Opc.2)
-http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD (Opc.3)
-http://205.235.6.29:8000/play/a108/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX SD (Opc.1)
-http://45.186.106.207:8000/play/a00y/index.m3u8
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.2)
-http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX HD (Opc.3)
-http://190.61.34.164:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Cine / Películas Premium",USA Network SD
 http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
