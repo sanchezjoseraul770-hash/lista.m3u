@@ -67,7 +67,7 @@ http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HBO Family HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine / Películas Premium",HVO Family HD
 http://186.148.184.22:8000/play/a0lx/index.m3u8
 
 
