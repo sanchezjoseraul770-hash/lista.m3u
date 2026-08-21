@@ -58,8 +58,7 @@ http://181.78.50.91:8000/play/a00o/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",HBO POP HD 
-http://179.60.191.102:8000/play/a0i8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD 
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
