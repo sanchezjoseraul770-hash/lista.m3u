@@ -60,7 +60,7 @@ http://181.78.50.91:8000/play/a00o/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
 
 
