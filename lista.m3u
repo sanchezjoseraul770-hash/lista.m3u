@@ -2404,12 +2404,6 @@ http://186.148.196.100:8000/play/a013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine / Películas Premium",De Película HD 
 http://45.167.2.101:8000/play/a0ru/index.m3u8
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula SD 
-http://205.235.6.29:8000/play/a0z7/index.m3u8?hls
-
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/aksM8pa.png",De pelicula HD 
-http://190.61.34.164:8000/play/a02c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine / Películas Premium",TCM HD
 http://45.167.2.101:8000/play/a0nu/index.m3u8
 
