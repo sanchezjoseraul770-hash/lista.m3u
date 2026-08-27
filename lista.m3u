@@ -7,8 +7,7 @@ http://186.33.26.18:8000/play/a0lp/index.m3u8
 http://157.100.9.51:8000/play/a1td
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD INGLES
-http://181.224.255.210:8001/play/a0rf/index.m3u8?hls#EXTINF:-1 tvg-logo="" group-title="Novelas",TLNovelas
-https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/77981dd5-4fc4-48bf-8c67-5becfae30050/0.m3u8
+http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
