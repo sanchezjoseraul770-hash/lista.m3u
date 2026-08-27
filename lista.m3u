@@ -2409,11 +2409,6 @@ http://190.61.34.164:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento Premium",AXN HD
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD 
-http://181.78.67.171:8000/play/a0ch/index.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN HD 
-http://190.61.34.164:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",ATRES Series HD 
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
