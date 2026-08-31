@@ -12,8 +12,12 @@ http://45.167.2.101:8000/play/a0rn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series HD
 http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 
+
+
+
+
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD 
-http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+http://38.224.231.47:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://190.61.101.11:7050/play/a04m/index.m3u8?hls
