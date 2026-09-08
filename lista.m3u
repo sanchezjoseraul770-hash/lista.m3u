@@ -4058,11 +4058,9 @@ http://190.61.101.11:7050/play/a08t/index.m3u8?hls
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="Deportes",Canal Deportivo 1
-http://181.225.190.242:8000/play/a03r
 
-#EXTINF:-1 group-title="Deportes",Canal Deportivo 2
-http://186.148.163.17:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Win Sports",Win Sports HD
+http://181.225.190.242:8000/play/a03r
 
 
 
