@@ -5941,16 +5941,6 @@ https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports
-http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes",Win+
-http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",FOX + PREMIER LIGA (MPV)
