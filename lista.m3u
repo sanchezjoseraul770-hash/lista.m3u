@@ -1,3 +1,17 @@
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD 
+http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD 
+http://45.167.2.101:8000/play/a0rn/index.m3u8
+
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD 
+http://38.224.231.47:8000/play/a027/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png" group-title="Entretenimiento", Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
@@ -18,12 +32,9 @@ http://190.61.101.11:7050/play/a05c/index.m3u8?hls
 http://190.61.101.11:7050/play/a05d/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD 
-http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD 
-http://45.167.2.101:8000/play/a0rn/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series HD
 http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
@@ -32,8 +43,6 @@ http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax SD 
-http://38.224.231.47:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://190.61.101.11:7050/play/a04m/index.m3u8?hls
