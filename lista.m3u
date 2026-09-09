@@ -191,8 +191,7 @@ http://45.5.117.188:8000/play/a00l/index.m3u8
 http://45.186.106.207:8000/play/a06w/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD 
-http://38.65.175.87:8000/play/a0cp/index.m3u8u?hls
+
 
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD 
