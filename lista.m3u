@@ -118,7 +118,7 @@ http://186.33.26.18:8000/play/a0o3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premiere HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine / Películas Premium",Universal Premi HD
 http://190.61.101.11:7050/play/a06o/index.m3u8?hls
 
 
@@ -183,11 +183,11 @@ http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi
 http://45.5.117.188:8000/play/a00l/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premiere 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi 2 
 http://45.186.106.207:8000/play/a06w/index.m3u8
 
 
@@ -4536,7 +4536,7 @@ http://190.61.34.164:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD 
 http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremier SD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium",Multipremi SD 
 http://201.77.60.62:8002/play/a0cp/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine / Películas",HBO POP HD
