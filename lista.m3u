@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD 
 http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD 
 http://205.235.6.29:8000/play/a0yr/index.m3u8?hls
@@ -27,9 +28,24 @@ http://157.100.9.51:8000/play/a1td
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",HBO MUNDI SD INGLES
 http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://go.wintv.pe/cache/logos256/FMH_MOVIES.png" group-title="Canal de las Estrellas",Canal de las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD 
+http://45.5.117.188:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE SD
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi
+http://45.5.117.188:8000/play/a00l/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi 2 
+http://45.186.106.207:8000/play/a06w/index.m3u8
 
 
 
@@ -93,17 +109,6 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network
-http://190.61.101.11:7050/play/a04x/index.m3u8?hls
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
-http://190.61.101.11:7050/play/a093/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel
-http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal HD
 http://181.119.177.253:8000/play/a0ej/index.m3u8
@@ -171,26 +176,21 @@ http://45.167.1.138:8000/play/a06s
 http://181.78.8.199:8000/play/a09n/index.m3u8
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD 
-http://45.5.117.188:8000/play/a059/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
-http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium",Golden EDGE SD
-http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi
-http://45.5.117.188:8000/play/a00l/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine / Películas Premium",Golden Premi 2 
-http://45.186.106.207:8000/play/a06w/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network
+http://190.61.101.11:7050/play/a04x/index.m3u8?hls
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
+http://190.61.101.11:7050/play/a093/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Infantiles",Disney Chanel
+http://190.61.101.11:7050/play/a05y/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR Channel SD 
