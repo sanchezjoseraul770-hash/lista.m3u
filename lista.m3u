@@ -1,4 +1,9 @@
 
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD 
 http://201.174.175.3:8000/play/a0y2/index.m3u8?hls
@@ -2113,11 +2118,6 @@ https://chg-chgtv.otteravision.com/chg/chgtv/chgtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas", ENT Channel
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53 [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
