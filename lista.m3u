@@ -1,15 +1,18 @@
 
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
-http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
-
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (Opc.3)
+http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine / Películas Premium",HBO Plus HD 
 http://45.5.117.188:8000/play/a011/index.m3u8
