@@ -72,12 +72,8 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series HD
-http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento Premium",TNT Series HD
+http://186.33.26.18:8000/play/a0l8/index.m3u8
 
 
 
