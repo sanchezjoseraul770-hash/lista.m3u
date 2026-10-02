@@ -5,8 +5,6 @@
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 
 
@@ -2654,6 +2652,14 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Cine / Películas", Sarapiquí TV (Costa Rica - Heredia)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entretenimiento / Cine & Series", Super Cable (Costa Rica - Grecia)
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
